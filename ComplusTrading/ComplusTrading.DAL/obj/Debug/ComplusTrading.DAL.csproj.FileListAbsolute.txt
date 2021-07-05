@@ -1,0 +1,6 @@
+C:\Randeep\Proffessional\Coding tests\ComPlus\Trading App\ComplusTrading\ComplusTrading.DAL\bin\Debug\ComplusTrading.DAL.dll
+C:\Randeep\Proffessional\Coding tests\ComPlus\Trading App\ComplusTrading\ComplusTrading.DAL\bin\Debug\ComplusTrading.DAL.pdb
+C:\Randeep\Proffessional\Coding tests\ComPlus\Trading App\ComplusTrading\ComplusTrading.DAL\obj\Debug\ComplusTrading.DAL.csprojAssemblyReference.cache
+C:\Randeep\Proffessional\Coding tests\ComPlus\Trading App\ComplusTrading\ComplusTrading.DAL\obj\Debug\ComplusTrading.DAL.csproj.CoreCompileInputs.cache
+C:\Randeep\Proffessional\Coding tests\ComPlus\Trading App\ComplusTrading\ComplusTrading.DAL\obj\Debug\ComplusTrading.DAL.dll
+C:\Randeep\Proffessional\Coding tests\ComPlus\Trading App\ComplusTrading\ComplusTrading.DAL\obj\Debug\ComplusTrading.DAL.pdb

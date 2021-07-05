@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplusTrading", "ComplusTrading\ComplusTrading.csproj", "{EF7B3316-099F-4B31-BC62-38A5BA84AEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplusTrading.DAL", "ComplusTrading.DAL\ComplusTrading.DAL.csproj", "{4C3D3D17-7460-4244-89C3-EF1B8FE907DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7B3316-099F-4B31-BC62-38A5BA84AEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7B3316-099F-4B31-BC62-38A5BA84AEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7B3316-099F-4B31-BC62-38A5BA84AEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7B3316-099F-4B31-BC62-38A5BA84AEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3D3D17-7460-4244-89C3-EF1B8FE907DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3D3D17-7460-4244-89C3-EF1B8FE907DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3D3D17-7460-4244-89C3-EF1B8FE907DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3D3D17-7460-4244-89C3-EF1B8FE907DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26652FF9-72CB-4E21-A8A5-0CC42619A17A}
+	EndGlobalSection
+EndGlobal
