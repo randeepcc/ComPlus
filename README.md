@@ -4,7 +4,8 @@ ComPlus reconciliation program
 
 Design details (DB Scripts placed in 'ComPlus\Database scripts' folder)
 
-Created a MSSQL DB names having below tables 
+Created a MSSQL DB names having below tables
+
 tbl_Broker : Master table for broker (broker 1,broker 2 etc)
 tbl_ticker :master table for currencies using for transactions (USDtoHKD, Intro HKD etc)
 tbl_Tradetypes :master table for Trade types (eg. FX, bond etc)
@@ -14,6 +15,7 @@ tbl_reconciled_trades : To save records which are reconciled successfully
 tbl_recon_exceptions : To save fraud transactions which did not passed reconciliation
 
 Stored procedures
+
 a. sp_RetrieveBrokers : To show all brokers
 b. sp_RetrieveTradeforRecon : To retrieve all trade records corresponding to the broker
 c. sp_updReconciliation :To Update all trade records as reconciled corresponding to the broker 
